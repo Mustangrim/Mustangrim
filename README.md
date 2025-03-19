@@ -1,16 +1,28 @@
-## Hi there 👋
+##👋 Hey there, I'm Mykyta Palamarchuk!
 
-<!--
-**Mustangrim/Mustangrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me
+- 🛡️ **Cybersecurity Enthusiast** | SOC Analyst | Threat Intelligence & Digital Forensics
+- 🎓 Currently learning at **Cydeo Bootcamp** – SOC Analyst Training
+- 🏆 **CompTIA Security+ Certified**
+- 🔍 Passionate about **Threat Hunting, Digital Forensics, and Network Security**
+- 🏴‍☠️ Practicing **CTF challenges** on [TryHackMe](https://tryhackme.com/) & [Hack The Box](https://www.hackthebox.com/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 GitHub Projects & Labs
+Here you’ll find my cybersecurity **labs, research, and hands-on projects**:
+- 🔐 Firewall configurations (IPTables, UFW)
+- 🕵️ Threat Intelligence investigations
+- 🛑 SIEM log analysis (Splunk, ELK)
+- ⚙️ Penetration testing (Nmap, Metasploit, Burp Suite)
+- 📄 Digital Forensics case studies
+
+---
+
+## 📫 Let's Connect!
+- 🔗 **LinkedIn**: [mykytapalamarchuk777](https://www.linkedin.com/in/mykytapalamarchuk777/)
+- 🐙 **GitHub**: [Mustangrim](https://github.com/Mustangrim)
+- 💬 Feel free to **connect & collaborate** on security projects!
+
+---
+🚀 **#Cybersecurity #SOC #ThreatIntelligence #Linux #SIEM**
