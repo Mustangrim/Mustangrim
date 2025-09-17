@@ -1,21 +1,23 @@
 ##👋 Hey there, I'm Mykyta Palamarchuk!
 
 ## About Me
-- **Cybersecurity Enthusiast** | SOC Analyst | Threat Intelligence & Digital Forensics
-- Currently learning at **Cydeo Bootcamp** – SOC Analyst Training
-- **CompTIA Security+ Certified**
-- Passionate about **Threat Hunting, Digital Forensics, and Network Security**
-- Practicing **CTF challenges** on [TryHackMe](https://tryhackme.com/) & [Hack The Box](https://www.hackthebox.com/)
+- **SOC Analyst** | Cybersecurity Professional | Threat Detection & Incident Response
+- **CompTIA Security+ Certified** (SY0-701) - Valid through February 2028
+- **SOC Analyst Training** at Cydeo Bootcamp (Dec 2024 - Jun 2025)
+- 300+ hours of hands-on experience with **Splunk, Elastic Security, GoogleSecOps**
+- Specialized in **SIEM Analysis, Digital Forensics, and Network Security**
 
 ---
 
 ## GitHub Projects & Labs
 Here you’ll find my cybersecurity **labs, research, and hands-on projects**:
-- Firewall configurations (IPTables, UFW)
-- Threat Intelligence investigations
-- SIEM log analysis (Splunk, ELK)
-- Penetration testing (Nmap, Metasploit, Burp Suite)
-- Digital Forensics case studies
+- **SOC Incident Response Framework** - Complete IR lifecycle implementation
+- **SIEM Analysis & Detection Labs** (Splunk, Elastic Security, ELK Stack)
+- **Network Security & Firewall Management** (IPTables, UFW, FortiOS)
+- **PowerShell Security Automation** - Windows administration & threat hunting
+- **Linux Security Foundations** - CLI administration for SOC operations
+- **Digital Forensics & Incident Recovery** - NIST SP 800-61r2 aligned methodology
+- **Threat Intelligence Investigations** - IOC analysis and threat correlation
 
 ---
 
